@@ -357,6 +357,14 @@
     <Compile Include="Hashing\SHA3\Skein\Skein256.cs" />
     <Compile Include="Hashing\SHA3\Skein\Skein384.cs" />
     <Compile Include="Hashing\SHA3\Skein\Skein512.cs" />
+    <Compile Include="Hashing\SHA\SHA0.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\BasicSHA0.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\BigEndian.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\BitOperations.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\BlockHashAlgorithm.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\PaddingType.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\SHAFunctions32.cs" />
+    <Compile Include="Hashing\SHA\SHA0Algo\SHAFunctions64.cs" />
     <Compile Include="Hashing\SHA\SHA1.cs" />
     <Compile Include="Hashing\SHA\SHA224.cs" />
     <Compile Include="Hashing\SHA\SHA256.cs" />
